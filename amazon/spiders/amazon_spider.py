@@ -100,7 +100,6 @@ class AmazonSpider(scrapy.Spider):
                     'amazon_bestseller_rank': "".join(response.css('#SalesRank::text').extract()).replace('\n','').replace('#','').replace('(','').replace(')','').strip()
                 }
             elif(len(response.css('#detail_bullets_id li').extract())==3):
-                print('3 aaya bhosdik')
                 product_details = {
                     'item_part_number': None,
                     'ASIN': response.css('#detail_bullets_id li:nth-child(1)::text').extract_first().strip(),
