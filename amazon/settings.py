@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'amazon.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'amazon (+http://www.yourdomain.com)'
+# USER_AGENT = 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -64,7 +64,7 @@ DOWNLOADER_MIDDLEWARES = {
     # 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware': 620,
 }
 
-RANDOM_UA_SAME_OS_FAMILY = True
+# RANDOM_UA_SAME_OS_FAMILY = True
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {

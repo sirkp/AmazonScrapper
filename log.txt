@@ -1,4 +1,4 @@
-div thik-  56
+div thik-  60
 got link
 got link
 got link
@@ -8,169 +8,146 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
 got link
 got link
 got link
@@ -179,173 +156,154 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
+got link
+got link
 got link
 done yielding
+2
 prodesses page  48
-div thik-  56
+3 aaya bhosdik
+div thik-  60
 got link
 got link
 got link
@@ -355,169 +313,146 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
 got link
 got link
 got link
@@ -526,173 +461,153 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
+got link
+got link
 got link
 done yielding
+3
 prodesses page  48
-div thik-  56
+div thik-  60
 got link
 got link
 got link
@@ -702,169 +617,146 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
 got link
 got link
 got link
@@ -873,173 +765,153 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
+got link
+got link
 got link
 done yielding
+4
 prodesses page  48
-div thik-  56
+div thik-  60
 got link
 got link
 got link
@@ -1049,169 +921,146 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
 got link
 got link
 got link
@@ -1220,2601 +1069,149 @@ inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
 got link
 inside loop
 base_price
 got final_price
 got discount
-incremnted count 
 incremented temp
+got link
+got link
+got link
 got link
 done yielding
+5
 prodesses page  48
-div thik-  56
-got link
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-done yielding
-prodesses page  48
-div thik-  56
-got link
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-done yielding
-prodesses page  48
-div thik-  56
-got link
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-done yielding
-prodesses page  48
-div thik-  56
-got link
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-done yielding
-prodesses page  48
-div thik-  56
-got link
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-done yielding
-prodesses page  48
-div thik-  56
-got link
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-done yielding
-prodesses page  48
-div thik-  56
-got link
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-got link
-got link
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-inside loop
-base_price
-got final_price
-got discount
-incremnted count 
-incremented temp
-got link
-done yielding
-prodesses page  48
-div thik-  0
-done yielding
-prodesses page  0
