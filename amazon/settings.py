@@ -64,6 +64,7 @@ DOWNLOADER_MIDDLEWARES = {
     # 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware': 620,
 }
 
+RANDOM_UA_SAME_OS_FAMILY = True
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {
