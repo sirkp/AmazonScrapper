@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/sirkp/Desktop/Scrappy/env/bin/python3",
+    "python.linting.enabled": true
+}
